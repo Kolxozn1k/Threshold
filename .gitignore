@@ -9,3 +9,5 @@
 *.csproj
 *.sln
 *.user
+/Assets/RPGHero/SRP/
+/Assets/InnerverseInteractive/
